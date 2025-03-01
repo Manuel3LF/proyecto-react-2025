@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom"
 import usePetition from "../../hooks/usePetition"
-import "./CriptoPage.css"
+import "./Criptopage.css"
 import CriptoHistory from "./info/CriptoHistorial"
 import CriptoInfo from "./info/CriptoInfo"
 
